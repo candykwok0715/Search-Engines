@@ -1,0 +1,2 @@
+Retrieval.exe ./Query/queryT ./Files/InvFileTrim.txt ./Files/DocLen.txt ./Files/TRECID.txt ./Result/result_T2.txt
+Retrieval.exe ./Query/queryTDN ./Files/InvFileTrim.txt ./Files/DocLen.txt ./Files/TRECID.txt ./Result/result_TDN2.txt
